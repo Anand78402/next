@@ -2,7 +2,8 @@
     "extends": "next/core-web-vitals",
     "rules": {
       "react/no-unescaped-entities": "off",
-      "react/jsx-key": "warn"
+      "react/jsx-key": "warn",
+      "react/react-in-jsx-scope": "off"
     }
   }
   
